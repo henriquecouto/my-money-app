@@ -3,7 +3,7 @@
 Project based on Course of Cod3r to learn express, react and redux.
 
 ## Backend 
-  To run: {yarn || npm} install && {yarn || npm run} dev
+  <b>To run:</b> {yarn || npm} install && {yarn || npm run} dev
 
 
 
